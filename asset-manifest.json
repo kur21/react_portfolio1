@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ac2b9a10.css",
+    "main.js": "./static/js/main.ae6109a5.js",
+    "static/media/me-about.jpg": "./static/media/me-about.2ad8873bbfb5ec262e43.jpg",
+    "static/media/me.png": "./static/media/me.ef1f0a0faf1779445e78.png",
+    "static/media/portfolio4.webp": "./static/media/portfolio4.b74e0b8912a68d6dd797.webp",
+    "static/media/CV – Nguyễn Trung Hiếu – Fresher Frontend.pdf": "./static/media/CV – Nguyễn Trung Hiếu – Fresher Frontend.49fc626fc5609754d96d.pdf",
+    "static/media/portfolio1.webp": "./static/media/portfolio1.0b4e16ed5e34503640ab.webp",
+    "static/media/portfolio2.webp": "./static/media/portfolio2.d966e6ada94c707c6f03.webp",
+    "static/media/avt3.jpg": "./static/media/avt3.b22e0101927277972aaf.jpg",
+    "static/media/portfolio3.webp": "./static/media/portfolio3.5f4955935236cb49d37e.webp",
+    "static/media/portfolio6.webp": "./static/media/portfolio6.49d0d71cb1a5695bd1c2.webp",
+    "static/media/avt1.jpg": "./static/media/avt1.222cb95c3b78c3df21f8.jpg",
+    "static/media/portfolio5.webp": "./static/media/portfolio5.5db47d8f363bb95110bc.webp",
+    "static/media/avt2.jpg": "./static/media/avt2.67615add60134a5e16e9.jpg",
+    "static/media/avt4.jpg": "./static/media/avt4.2e57170349804189f6aa.jpg",
+    "index.html": "./index.html",
+    "main.ac2b9a10.css.map": "./static/css/main.ac2b9a10.css.map",
+    "main.ae6109a5.js.map": "./static/js/main.ae6109a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2b9a10.css",
+    "static/js/main.ae6109a5.js"
+  ]
+}
